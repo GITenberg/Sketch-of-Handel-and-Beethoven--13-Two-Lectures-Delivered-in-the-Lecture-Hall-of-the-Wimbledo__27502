@@ -1,0 +1,30 @@
+_repo: Sketch-of-Handel-and-Beethoven--13-Two-Lectures-Delivered-in-the-Lecture-Hall-of-the-Wimbledo__27502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ball, Thomas Hanly
+    gutenberg_agent_id: '32727'
+    url: http://www.gutenberg.org/2009/agents/32727
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Germany -- Biography'
+- !lcc 'CT'
+- !lcc 'ML'
+- !lcsh 'Handel, George Frideric, 1685-1759'
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+title: "Sketch of Handel and Beethoven\r\nTwo Lectures, Delivered in the Lecture Hall\
+  \ of the Wimbledon Village Club, on Monday Evening, Dec. 14, 1863; and Monday Evening,\
+  \ Jan. 11, 1864"
+url: http://www.gutenberg.org/ebooks/27502
